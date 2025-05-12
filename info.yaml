@@ -1,0 +1,4 @@
+from_image: aluki/base-server-alpine
+from_version: 3.21.3
+image: aluki/step-ca
+version: 0.28.1
