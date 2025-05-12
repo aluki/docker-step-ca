@@ -1,3 +1,4 @@
 [submodule "dockerbuilder"]
 	path = dockerbuilder
 	url = git@github.com:aluki/dockerbuilder
+	branch = 0.1.0
