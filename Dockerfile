@@ -9,5 +9,5 @@ USER root
 
 RUN apk add --no-cache cmd:step-ca=${STEP_VERSION}
 
-USER user
+USER 1000
 
