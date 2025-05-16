@@ -11,3 +11,5 @@ RUN apk add --no-cache cmd:step-ca=${STEP_VERSION}
 
 USER 1000
 
+ENTRYPOINT ["step-ca"]
+
